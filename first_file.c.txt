@@ -1,2 +1,2 @@
 test for conflict written by bibhu
-Test git conflict check by prakash...
+Test git conflict check by prakash
